@@ -1,0 +1,170 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #76d7c4;
+  color: #333;
+  line-height: 1.6;
+  padding: 0 20px;
+}
+
+/* Cabecera */
+header {
+  background-color: #1abc9c;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.header-container h1 {
+  margin-bottom: 10px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Secciones */
+section {
+  margin: 40px 0;
+}
+
+h2 {
+  color: #117864;
+  margin-bottom: 15px;
+}
+
+h3 {
+  color: #148f77;
+  margin-top: 20px;
+}
+
+/* Imágenes y videos */
+figure {
+  text-align: center;
+  margin: 20px 0;
+}
+
+figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+figcaption {
+  font-style: italic;
+  margin-top: 5px;
+}
+
+video {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+/* Tabla */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table, th, td {
+  border: 1px solid #ccc;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+caption {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Formulario */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+input, textarea, button {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #1abc9c;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #16a085;
+}
+
+/* Aside */
+aside {
+  background-color: #d1f2eb;
+  padding: 20px;
+  margin-top: 40px;
+  border-radius: 10px;
+}
+
+aside ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+aside a {
+  color: #117864;
+  text-decoration: none;
+}
+
+aside a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  background-color: #1abc9c;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 40px;
+}
+
+footer nav ul {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  list-style: none;
+  margin-top: 10px;
+}
+
+  
+  
