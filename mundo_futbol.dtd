@@ -1,0 +1,27 @@
+<!ELEMENT MundoFutbol (Inicio, EquiposDestacados, Jugadores, Noticias, Videos, Contacto)>
+<!ELEMENT Inicio (MensajeBienvenida, Imagen)>
+<!ELEMENT MensajeBienvenida (#PCDATA)>
+<!ELEMENT Imagen (#PCDATA)>
+<!ELEMENT EquiposDestacados (Equipo*)>
+<!ELEMENT Equipo (Nombre, Descripcion, TituloInternacional, Liga, Copa, Fundacion)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Descripcion (#PCDATA)>
+<!ELEMENT TituloInternacional (#PCDATA)>
+<!ELEMENT Liga (#PCDATA)>
+<!ELEMENT Copa (#PCDATA)>
+<!ELEMENT Fundacion (#PCDATA)>
+<!ELEMENT Jugadores (Jugador*)>
+<!ELEMENT Jugador (Nombre, Perfil)>
+<!ELEMENT Perfil (#PCDATA)>
+<!ELEMENT Noticias (Noticia*)>
+<!ELEMENT Noticia (Titulo, Contenido)>
+<!ELEMENT Titulo (#PCDATA)>
+<!ELEMENT Contenido (#PCDATA)>
+<!ELEMENT Videos (Video*)>
+<!ELEMENT Video (Titulo, Archivo)>
+<!ELEMENT Archivo (#PCDATA)>
+<!ELEMENT Contacto (Formulario)>
+<!ELEMENT Formulario (Nombre, CorreoElectronico, Mensaje)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT CorreoElectronico (#PCDATA)>
+<!ELEMENT Mensaje (#PCDATA)>

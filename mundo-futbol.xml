@@ -1,0 +1,26 @@
+<MundoFutbol>
+<Inicio>Explora las últimas noticias, equipos y figuras del fútbol mundial. Vive la pasión del deporte más popular del planeta.</Inicio>
+<EquiposDestacados>
+<Equipo nombre="FC Barcelona">Uno de los clubes más icónicos del mundo, con una historia rica en títulos y leyendas del balón.</Equipo>
+<Equipo nombre="Real Madrid">El máximo ganador de la Champions League, conocido por su grandeza y figuras internacionales.</Equipo>
+<Equipo nombre="Manchester City">Dominando el fútbol inglés con su juego ofensivo y estrellas como De Bruyne y Haaland.</Equipo>
+<Equipo nombre="Boca Juniors">Pasión argentina y una hinchada que no tiene comparación. El alma de la Bombonera.</Equipo>
+<Equipo nombre="Bayern de Múnich">Es el club más laureado en la historia de la Bundesliga.</Equipo>
+<Equipo nombre="Paris Saint-Germain">El club de la capital mantiene una intensa rivalidad con el Olympique de Marsella, con quien disputa el partido de fútbol más famoso en Francia.</Equipo>
+<Equipo nombre="AC Milan">Fue el primer equipo italiano en haber ganado la Copa de Europa.</Equipo>
+</EquiposDestacados>
+<Jugadores>
+<Jugador nombre="Lionel Messi">La 'pulga' Campeón del mundo, múltiples Balones de Oro y otros muchos trofeos tanto individuales como colectivos una leyenda viva del fútbol.</Jugador>
+<Jugador nombre="Cristiano Ronaldo">El 'Bicho' Velocidad, potencia y definición son de sus mejores cualidades, múltiples Balones de Oro y otros muchos trofeos tanto individuales como colectivos una leyenda viva del fútbol.</Jugador>
+<Jugador nombre="Neymar Jr.">El 'joga bonito' del fútbol. Regate, velocidad, definición, verticalidad, desborde.</Jugador>
+</Jugadores>
+<Noticias>
+<Noticia>Real Madrid vs Arsenal, el Madrid tratará de hacer la heroica remontando la eliminatoria y avanzar a las semifinales.</Noticia>
+<Noticia>Si el Bayern quiere pasar de ronda deberá remontar el 2-1 contra el Inter de Milán.</Noticia>
+<Noticia>El París-Saint se presenta claro candidato a ganar esta Champions con su gran juego ofensivo.</Noticia>
+<Noticia>El Fútbol Club Barcelona podría disputar unas semifinales de Champions después de 5 años y ser candidato a ser campeón.</Noticia>
+</Noticias>
+<Videos>
+<Video>Video incrustado con jugadas y goles (futbol.mp4).</Video></Videos>
+<Contacto>Formulario con campos para nombre, correo electrónico y mensaje.</Contacto>
+</MundoFutbol>
